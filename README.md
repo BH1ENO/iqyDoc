@@ -2,6 +2,7 @@
 Asynchronously grab information of iqy documentary using VBA from Excel. 
 
 Basic skill:
+
 1.DOM
 
 2.WinHttpRequest(Event handler, finnal version, can handle URL redirect)
