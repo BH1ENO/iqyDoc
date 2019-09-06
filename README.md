@@ -1,6 +1,17 @@
 # iqyDoc
 Asynchronously grab information of iqy documentary using VBA from Excel. 
 
+
+Grab 3 kinds of information.
+
+1.static webpage elements by DOM.
+
+2.in-page javascript variables by Instr function.
+
+3.Ajax data by find data querying URL and build new URL to query.
+
+
+
 Basic skill:
 
 1.DOM
@@ -32,9 +43,3 @@ Dim strToFind As String
 
 
 
-Grab 3 kinds of information.
-1.static webpage elements by DOM.
-
-2.in-page javascript variables by Instr function.
-
-3.Ajax data by find data querying URL and build new URL to query.
